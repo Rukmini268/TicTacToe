@@ -39,8 +39,6 @@ public static int[][] ticbox;
 		//if all checks passed return true.
 		
 		
-		//Write your code here !!!
-		
 		
 		return false;
 	}
